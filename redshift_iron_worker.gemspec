@@ -8,8 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = RedshiftIronWorker::VERSION
   spec.authors       = ["Iain Gray"]
   spec.email         = ["iain@quantdeck.com"]
-  spec.summary       = %q{Helper methods for using Redshift on Iron.io IronWorker}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Helper methods for using Redshift on Iron.io IronWorker}  
   spec.homepage      = ""
   spec.license       = "MIT"
 
