@@ -18,7 +18,12 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Include as a mixin into your classes with 
+
+`include RedshiftIronWorker`
+
+then use `pg_ssh_connect` to connect to your Redshift instance
+
 
 ## Contributing
 
