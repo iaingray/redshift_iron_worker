@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Iain Gray"]
   spec.email         = ["iain@quantdeck.com"]
   spec.summary       = %q{Helper methods for using Redshift on Iron.io IronWorker}  
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/iaingray/redshift_iron_worker"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
